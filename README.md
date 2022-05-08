@@ -1,4 +1,4 @@
-[![banner](https://sucodemanga.com.br/wp-content/uploads/2021/04/o-nome-do-vento.jpg)](https://github.com/Mauricio-Maxuel)
+[![banner](http://maratonadesofa.com/wp-content/uploads/2020/10/kvothe.png)](https://github.com/Mauricio-Maxuel)
 
   <p align="center">
    <a href="https://code.visualstudio.com/">
@@ -44,7 +44,7 @@
     <img
       align="center"
       height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauricio-Maxuels&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauricio-Maxuel&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
     />
   </a>
 </p>
@@ -69,5 +69,4 @@
          src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
   </a>
 </p>
-<h5 align="center">Seu @</h5>
 </details>
