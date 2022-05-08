@@ -1,6 +1,27 @@
 <!-- [![banner](http://maratonadesofa.com/wp-content/uploads/2020/10/kvothe.png)](https://github.com/Mauricio-Maxuel) -->
 
-  <p align="center">
+
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Olá</h1></img>
+
+<img align="right" width="340" src="https://sucodemanga.com.br/wp-content/uploads/2021/04/o-nome-do-vento.jpg" />
+
+```json
+{
+  "name":"Mauricio Maxuel"
+  
+  "favoriteActivities":["read","programming","music"]
+  
+  "myPets":["Salsicha","Pupsy"]
+}  
+  
+```
+
+<!-- <h4 align="center">
+<details>
+<summary>Mais...</summary> -->
+  <br>
+  <br>
+ <p align="center">
    <a href="https://code.visualstudio.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
    </a>
@@ -26,11 +47,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
    </a>
 </p>
-
-<h4 align="center">
-<details>
-<summary>Mais...</summary>
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oi meu nome é Mauricio Maxuel</h1></img>
+<br>
 
 <p align="center">
   <a href="https://github.com/Mauricio-Maxuel">
@@ -55,18 +72,25 @@
     <img
       align="center"
       src="https://github-profile-trophy.vercel.app/?username=Mauricio-Maxuel&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
-    />
+    />s
   </a>
 </a>
 </p>
 
 
-<h3 align="center">Sobre mim:</h3>
+<!-- <h3 align="center">Sobre mim:</h3> -->
+<br>
 
   <a href="https://www.linkedin.com/in/MauricioMaxuel/">
     <img
          align="center"
-         src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
-  </a>
+         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+         </a>
+  
+   <a href="mailto:mauricio.msantos@sptech.school">
+    <img
+         align="center"
+        src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
+         </a>
 </p>
 </details>
