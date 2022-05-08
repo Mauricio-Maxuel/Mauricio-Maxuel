@@ -1,4 +1,4 @@
-[![banner](http://maratonadesofa.com/wp-content/uploads/2020/10/kvothe.png)](https://github.com/Mauricio-Maxuel)
+<!-- [![banner](http://maratonadesofa.com/wp-content/uploads/2020/10/kvothe.png)](https://github.com/Mauricio-Maxuel) -->
 
   <p align="center">
    <a href="https://code.visualstudio.com/">
