@@ -1,7 +1,7 @@
 <!-- [![banner](http://maratonadesofa.com/wp-content/uploads/2020/10/kvothe.png)](https://github.com/Mauricio-Maxuel) -->
 
 
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Olá</h1></img>
+<h1 align="center"> Olá</h1>
 
 <img align="right" width="340" src="https://sucodemanga.com.br/wp-content/uploads/2021/04/o-nome-do-vento.jpg" />
 
